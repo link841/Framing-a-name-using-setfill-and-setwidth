@@ -5,7 +5,7 @@ using namespace std;
 // Please enter your first name!
 //*****************
 //*               *
-//* Hello, Kevin! *
+//* Hello, Name! *
 //*               *
 //*****************
 
